@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Gulab Jamun",
+        "price": 10,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id arcu ante. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In iaculis, turpis ut iaculis vehicula, nisi libero bibendum turpis, accumsan placerat augue eros id velit. Nullam condimentum est arcu, id mattis libero condimentum sit amet. Maecenas non augue id urna lacinia semper.",
+        "image": "/data/products/gulab.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "Ros Gulla",
+        "price": 15,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id arcu ante. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In iaculis, turpis ut iaculis vehicula, nisi libero bibendum turpis, accumsan placerat augue eros id velit. Nullam condimentum est arcu, id mattis libero condimentum sit amet. Maecenas non augue id urna lacinia semper.",
+        "image": "/data/products/ros-gulla.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "Gajar Barfi",
+        "price": 18,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id arcu ante. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In iaculis, turpis ut iaculis vehicula, nisi libero bibendum turpis, accumsan placerat augue eros id velit. Nullam condimentum est arcu, id mattis libero condimentum sit amet. Maecenas non augue id urna lacinia semper.",
+        "image": "/data/products/barfi.jpeg"
+    },
+    {
+        "id": 4,
+        "name": "Jalebi",
+        "price": 8,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id arcu ante. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In iaculis, turpis ut iaculis vehicula, nisi libero bibendum turpis, accumsan placerat augue eros id velit. Nullam condimentum est arcu, id mattis libero condimentum sit amet. Maecenas non augue id urna lacinia semper.",
+        "image": "/data/products/jalebi.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "Modak",
+        "price": 12,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id arcu ante. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In iaculis, turpis ut iaculis vehicula, nisi libero bibendum turpis, accumsan placerat augue eros id velit. Nullam condimentum est arcu, id mattis libero condimentum sit amet. Maecenas non augue id urna lacinia semper.",
+        "image": "/data/products/modak.jpeg"
+    },
+    {
+        "id": 6,
+        "name": "Kaju Katli",
+        "price": 19,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id arcu ante. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In iaculis, turpis ut iaculis vehicula, nisi libero bibendum turpis, accumsan placerat augue eros id velit. Nullam condimentum est arcu, id mattis libero condimentum sit amet. Maecenas non augue id urna lacinia semper.",
+        "image": "/data/products/kaju-katli.webp"
+    },
+    {
+        "id": 7,
+        "name": "Malai Pedha",
+        "price": 11,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id arcu ante. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In iaculis, turpis ut iaculis vehicula, nisi libero bibendum turpis, accumsan placerat augue eros id velit. Nullam condimentum est arcu, id mattis libero condimentum sit amet. Maecenas non augue id urna lacinia semper.",
+        "image": "/data/products/pedha.jpeg"
+    },
+    {
+        "id": 8,
+        "name": "Ras Malai",
+        "price": 10,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id arcu ante. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In iaculis, turpis ut iaculis vehicula, nisi libero bibendum turpis, accumsan placerat augue eros id velit. Nullam condimentum est arcu, id mattis libero condimentum sit amet. Maecenas non augue id urna lacinia semper.",
+        "image": "/data/products/ras-malai.jpeg"
+    }
+]
